@@ -28,3 +28,7 @@ push branche dev :
 
 mergte branch dev
 ![Merge branche dev](https://github.com/Prode28/evaladis/assets/170403685/0286495c-af53-4516-a16b-04d4396dc324)
+
+WORKFLOWS PUSH :
+
+![WORKFLOW](https://github.com/Prode28/evaladis/assets/170403685/acc815cd-2747-4ae2-8567-6a14c06d680c)
