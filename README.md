@@ -31,4 +31,6 @@ mergte branch dev
 
 WORKFLOWS PUSH :
 
+![push workflow](https://github.com/Prode28/evaladis/assets/170403685/62cb2c71-70f4-4d46-8df1-d9c9834b3ed7)
+
 ![WORKFLOW](https://github.com/Prode28/evaladis/assets/170403685/acc815cd-2747-4ae2-8567-6a14c06d680c)
