@@ -21,3 +21,10 @@ ETAPE 4 :
 Creation de la branche dev et push ainsi que pytest : 
 ![Pytest](https://github.com/Prode28/evaladis/assets/170403685/ffbf7c85-ea39-48b3-ba62-3142871bc1ef)
 
+push branche dev : 
+
+
+![push dev](https://github.com/Prode28/evaladis/assets/170403685/cb023e5f-5f43-42c7-b147-68b5c6900f2a)
+
+mergte branch dev
+![Merge branche dev](https://github.com/Prode28/evaladis/assets/170403685/0286495c-af53-4516-a16b-04d4396dc324)
